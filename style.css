@@ -32,3 +32,8 @@ button {
 button:focus {
   outline: none;
 }
+
+button .circle {
+  position: absolute;
+  background-color: #fff;
+}
