@@ -36,10 +36,10 @@ button:focus {
 button .circle {
   position: absolute;
   background-color: #fff;
-  width: 100px;
-  height: 100px;
+  width: 95px;
+  height: 95px;
   border-radius: 50%;
-  transform: translate(-50%, -50%) scale(0);
+  transform: translate(-50%, -55%) scale(0);
   animation: scale 0.5s ease-out;
 }
 
