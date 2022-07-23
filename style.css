@@ -11,7 +11,7 @@ body {
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  height: 100vh;
+  height: 95vh;
   overflow: hidden;
   margin: 0;
 }
@@ -20,10 +20,10 @@ button {
   background-color: purple;
   color: #fff;
   border: 1px purple solid;
-  font-size: 14px;
+  font-size: 12px;
   text-transform: uppercase;
-  letter-spacing: 2px;
-  padding: 20px 30px;
+  letter-spacing: 4px;
+  padding: 25px 35px;
   overflow: hidden;
   margin: 10px 0;
   position: relative;
