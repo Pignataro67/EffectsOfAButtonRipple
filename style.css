@@ -81,3 +81,8 @@ body {
   margin: 5px;
   font-size: 14px;
 }
+
+.btn:disabled {
+    background-color: var(--line-border-empty);
+    cursor: not-allowed;
+  }
