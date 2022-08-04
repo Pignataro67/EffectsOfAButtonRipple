@@ -39,3 +39,13 @@ circle-container {
   position: relative;
   transition: transform 0.5s linear;
 }
+
+.container.show-nav .circle {
+  transform: rotate(-70deg);
+}
+
+.circle button {
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+}
