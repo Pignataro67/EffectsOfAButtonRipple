@@ -69,3 +69,8 @@ circle-container {
   transform: rotate(90deg);
   transform-origin: top left;
 }
+
+nav ul {
+    list-style-type: none;
+    padding-left: 30px;
+  }
